@@ -1,0 +1,26 @@
+# Core dependencies
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Data processing
+pandas>=2.0.0
+pyyaml>=6.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# GUI (for desktop app)
+# tkinter comes with Python by default
+
+# Progress bars
+tqdm>=4.65.0
+
+# Optional: For CUDA support
+# Install appropriate version from https://pytorch.org/get-started/locally/
+# Example for CUDA 11.8:
+# torch==2.0.0+cu118
+# torchvision==0.15.0+cu118

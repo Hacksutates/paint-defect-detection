@@ -1,0 +1,23 @@
+==================================================
+PAINT DEFECT DETECTION REPORT
+==================================================
+
+Analysis Date: 2025-11-03 02:40:54
+Image: D:/Projects/final/model/tests/test.png
+Model: model/best.pt
+Threshold: 30.0%
+
+SUMMARY:
+--------------------
+Image Size: 451×482
+Defects Found: 5
+Inference Time: 364.8 ms
+Quality Status: REJECT ❌
+
+DETECTED DEFECTS:
+--------------------
+1. Scratches | Confidence: 82.3% | Area: 0.75% | Severity: Low
+2. Dirt | Confidence: 49.6% | Area: 0.10% | Severity: Low
+3. Scratches | Confidence: 44.4% | Area: 0.83% | Severity: Low
+4. Dirt | Confidence: 38.5% | Area: 0.19% | Severity: Low
+5. Dirt | Confidence: 35.8% | Area: 0.05% | Severity: Low
