@@ -269,17 +269,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📝 TODO
-
-- [ ] Add support for video input
-- [ ] Implement defect tracking across frames
-- [ ] Add more defect types
-- [ ] Create web-based interface
-- [ ] Add model quantization for edge deployment
-- [ ] Implement active learning pipeline
-
----
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
@@ -304,12 +293,6 @@ python convert.py --dataset path/to/dataset22
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) - Object detection framework
@@ -320,17 +303,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Author:** Your Name
+**Author:** Alimzhan Zhangalishev
 
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/paint-defect-detection&type=Date)](https://star-history.com/#yourusername/paint-defect-detection&Date)
+- Email: hacksutates@gmail.com
+- GitHub: [@yourusername](https://github.com/Hacksutates)
 
 ---
 
