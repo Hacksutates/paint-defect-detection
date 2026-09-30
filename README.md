@@ -4,7 +4,6 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Segmentation-green.svg)](https://github.com/ultralytics/ultralytics)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ![Demo](docs/demo.gif)
 
