@@ -44,7 +44,7 @@ Advanced paint defect detection system for automotive quality control. Uses YOLO
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/paint-defect-detection.git
+git clone https://github.com/Hacksutates/paint-defect-detection.git
 cd paint-defect-detection
 
 # Install dependencies
@@ -306,7 +306,7 @@ python convert.py --dataset path/to/dataset22
 **Author:** Alimzhan Zhangalishev
 
 - Email: hacksutates@gmail.com
-- GitHub: [@yourusername](https://github.com/Hacksutates)
+- GitHub: [@Hacksutates](https://github.com/Hacksutates)
 
 ---
 
